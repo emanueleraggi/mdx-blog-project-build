@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{Vgru:function(e,n,t){"use strict";t.r(n);var o=t("q1tI"),a=t.n(o);t("7oih"),t("1oc3"),t("Wbzz"),t("i1GD");n.default=function(){return a.a.createElement("div",null,a.a.createElement("h2",null,"technology page"))}}}]);
+//# sourceMappingURL=component---src-pages-technology-js-a35d67cc55c4f5a50799.js.map

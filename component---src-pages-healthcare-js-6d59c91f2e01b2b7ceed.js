@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{IYRn:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),c=t.n(a);t("7oih"),t("1oc3"),t("Wbzz"),t("i1GD");n.default=function(){return c.a.createElement("div",null,c.a.createElement("h2",null,"healthcare page"))}}}]);
+//# sourceMappingURL=component---src-pages-healthcare-js-6d59c91f2e01b2b7ceed.js.map
